@@ -3,3 +3,9 @@ F:\Users\Alex\Documents\C# Progik\PÍ közelítő\PÍ közelítő\bin\Debug\PÍ 
 F:\Users\Alex\Documents\C# Progik\PÍ közelítő\PÍ közelítő\obj\Debug\ResolveAssemblyReference.cache
 F:\Users\Alex\Documents\C# Progik\PÍ közelítő\PÍ közelítő\obj\Debug\PÍ közelítő.exe
 F:\Users\Alex\Documents\C# Progik\PÍ közelítő\PÍ közelítő\obj\Debug\PÍ közelítő.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\bin\Debug\PÍ közelítő.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\bin\Debug\PÍ közelítő.pdb
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\obj\Debug\PÍ közelítő.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\obj\Debug\PÍ közelítő.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\obj\Debug\PÍ közelítő.exe
+D:\Alex\Dokkok\GitHub\pi_kozelito\PÍ közelítő\obj\Debug\PÍ közelítő.pdb
